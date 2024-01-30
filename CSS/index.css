@@ -1,0 +1,100 @@
+
+/* Main */
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+body{
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+h1, h2{
+    font-family: 'Caveat', cursive;
+}
+h2{
+    font-size: 30px;
+    margin: 0;
+}
+.content-wrap{
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+/* Header */
+header{
+    background-image:url(../images/Sadeed.jpeg);
+    text-align: center;
+    background-size: cover; 
+    background-position: center;
+    color: white;
+
+}
+.header_page{
+    font-family: 'Single Day', cursive;
+    text-align: center;
+    background-color:rgba(7, 6, 6, 0.50);
+}
+h1{
+    font-size: 60px;
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
+
+/* Education Section */
+.education{
+    background-image: url(../images/joanna-kosinska-unsplash.jpg);
+    background-size: cover;
+    background-position:  top right ;
+}
+.Education_border{
+    border-bottom: 1px dashed #343434 ;
+}
+
+/* Experience section */
+.experience{
+    background-color: cadetblue;
+}
+
+.job_border{
+    border-bottom: 1px dashed #343434;
+}
+/* Footer Section */
+footer{
+    background-image: url(../images/sharon-mccutcheon-unsplash.jpg);
+    background-size: cover;
+    text-align: left;
+
+}
+footer, h2{
+    font-size: 40px;
+}
+ .contact_list {
+    list-style: none; 
+    padding: 0;
+}
+.contact_list li{
+    padding: 15px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.contact_list li a{
+    font-size: 20px;
+    color: black;
+}
+
+/* Responsive */
+@media screen and (min-width:830px){ 
+    .job{
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+    }
+    .contact_list, li{
+        display:inline-block;
+    }
+}
