@@ -53,7 +53,7 @@ h1{
     background-position:  top right ;
 }
 .Education_border{
-    border-bottom: 1px dashed #343434 ;
+    border-bottom: 2px dashed #343434 ;
 }
 
 /* Experience section */
@@ -62,7 +62,7 @@ h1{
 }
 
 .job_border{
-    border-bottom: 1px dashed #343434;
+    border-bottom: 2px dashed #343434;
 }
 /* Footer Section */
 footer{
