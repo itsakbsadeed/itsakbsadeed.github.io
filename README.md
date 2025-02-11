@@ -1,8 +1,6 @@
-# itsakbsadeed.github.io
+🌐 [itsakbsadeed.github.io](https://itsakbsadeed.github.io) — My Current Portfolio
 
-Personal porfolio
+🚀 Personal Portfolio Update! 🚀
 
- Personal Portfolio Update! 🚀
- 
-A new portfolio is coming soon! I just need to finish a couple of things before making one big change—no more tiny tweaks, just a full upgrade! Stay tuned! 🔥
-(P.S. Shoutout to ChatGPT for fixing my typos... again. Maybe one day I’ll type things right on the first try. 😂)
+A brand-new portfolio is on the way! Just a few final touches before I roll out a full upgrade—no more tiny tweaks, just a game-changing revamp! Stay tuned! 🔥
+(P.S. Huge thanks to ChatGPT for fixing my typos... again. Maybe one day I'll master the art of typing. 😂)
